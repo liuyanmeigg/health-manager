@@ -1,0 +1,30 @@
+{
+  "id": "4081955",
+  "name": "健康康复管理",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "287162",
+      "name": "注册登录-验证码",
+      "font_class": "zhucedengluyanzhengma",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "8035678",
+      "name": "登录密码-01",
+      "font_class": "denglumima-",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7090030",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    }
+  ]
+}
